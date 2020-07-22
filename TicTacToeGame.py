@@ -9,8 +9,8 @@
 #Challenge 2: Could you prompt the user to play again if they would so desire? 
 #Challenge 3: Could you do in less lines in python?
 #Challenge 4: Can you fix the bug which allows you to play a place which has already been played? 
-#Challenge 4: Could you make the perfect tic-tac-toe AI?
-#Challenge 5: Could you do this in a GUI and clickable tiles?
+#Challenge 5: Could you make the perfect tic-tac-toe AI?
+#Challenge 6: Could you do this in a GUI and clickable tiles?
 
 
 #This board makes this game awfully weird to iterate through... could you do it in less lines?
